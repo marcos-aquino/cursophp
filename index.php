@@ -1,7 +1,9 @@
 <?php
 
-	echo "Olá terra!!!";
 
-	echo "Apuuuuuuuuuu";
+	echo "Olá planeta";
+
+	echo "Tchau mundão!";
+
 
 ?>
